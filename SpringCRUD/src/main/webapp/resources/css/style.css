@@ -1,0 +1,37 @@
+body {
+	color: #000000;
+}
+
+.myButton {
+	border-radius: 10px;
+	background-color: #ff3939;
+	font-weight: bold;
+	margin-bottom: 8px;
+	margin-top: 8px;
+}
+
+#addButton {
+	font-size: 28px;
+	border-radius: 10px;
+	background-color: #6bff39;
+	font-weight: bold;
+	margin-bottom: 8px;
+	margin-top: 8px;
+	
+}
+
+#addButtonDiv {
+	padding-top: 20px;
+	text-align: center;
+
+}
+
+table {
+	font-size: 25px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+tr:nth-child(even) {
+	background-color: #3db9c2;
+}
